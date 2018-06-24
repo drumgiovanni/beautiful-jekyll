@@ -283,6 +283,7 @@ footer a {
 footer .list-inline {
   margin: 0;
   padding: 0;
+  color:#404040;
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
